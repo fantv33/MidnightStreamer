@@ -3,7 +3,7 @@
 ## Ubuntu versions
 * Tested on **Ubuntu 22**
 ## Installation
-1. Download the zip file from **https://mega.nz/file/mc4FBYyK#GDX8lD_N0gZlJtteeHxScsxwPRgAfuhhEUEneFD8uFw**
+1. Download the zip file from https://mega.nz/file/mc4FBYyK#GDX8lD_N0gZlJtteeHxScsxwPRgAfuhhEUEneFD8uFw
 
 2. Make sure **ms_install_offline.sh** and **ms_install_5.5.0.tar.gz** are in the same directory
 
