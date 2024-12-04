@@ -2,9 +2,9 @@
 
 * **Tested on Ubuntu 22**
 
-* **Download the zip file from https://mega.nz/file/mc4FBYyK#GDX8lD_N0gZlJtteeHxScsxwPRgAfuhhEUEneFD8uFw**
+* Download the zip file from **https://mega.nz/file/mc4FBYyK#GDX8lD_N0gZlJtteeHxScsxwPRgAfuhhEUEneFD8uFw**
 
-* **Make sure ms_install_offline.sh and ms_install_5.5.0.tar.gz are in the same directory**
+* Make sure **ms_install_offline.sh** and **ms_install_5.5.0.tar.gz** are in the same directory
 
 1. **Install the panel**
 ```
