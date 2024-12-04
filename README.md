@@ -1,7 +1,7 @@
 # MidnightStreamer v5.5.0
 
 ## Ubuntu versions
-* Tested on **Ubuntu 22**
+* Tested on **Ubuntu 18/20/22**
 ## Description
 Below you can find instructions to install MidnightStreamer v5.5.0 offline. The installation process can be long, so let it run until it's done.
 <br><br>The installation is based on the original files and a patched *odbc_db.php*.
