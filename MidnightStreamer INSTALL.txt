@@ -2,7 +2,7 @@
 
 # Make sure ms_install_offline.sh and ms_install_5.5.0.tar.gz are in the same directory
 
-1. Install the panel
+1. Install the panel 
 	 
 chmod 777 ms_install_offline.sh
 
