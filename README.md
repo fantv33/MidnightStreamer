@@ -1,6 +1,6 @@
 ## MidnightStreamer v5.5.0
 
-* **Tested on Ubuntu 22**
+* Tested on **Ubuntu 22**
 
 * Download the zip file from **https://mega.nz/file/mc4FBYyK#GDX8lD_N0gZlJtteeHxScsxwPRgAfuhhEUEneFD8uFw**
 
