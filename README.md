@@ -1,4 +1,4 @@
-# MidnightStreamer v5.5.0
+# MidnightStreamer Panel v5.5.0
 
 ## Ubuntu versions
 * Tested on **Ubuntu 18/20/22/24**
