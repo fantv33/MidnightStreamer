@@ -1,8 +1,8 @@
 https://mega.nz/file/LFAAEJ5D#1MLbE_JGvGCggGtkciqIKcN4RtAtRVaYqV6q1MRjOqk
 
-android_midnightstreamer_player_1.0.18.apk72.71 MB2023-12-21 07:49:21cd566c4f9cd2da7cbc2e8c28cb0218abc367776b
-android_midnightstreamer_player_1.0.2.apk72.68 MB2020-08-27 11:15:0568052a9a2faa7c8158b0d148b32e53db61af0dcd
-enigma2_midnightstreamer_3.0.0_aarch64.ipk1.80 MB2020-06-06 13:59:53029ca4673d30e263fc32624ec592398821cc2ebc
+android_midnightstreamer_player_1.0.18.apk   72.71 MB  2023-12-21 07:49:21  cd566c4f9cd2da7cbc2e8c28cb0218abc367776b
+android_midnightstreamer_player_1.0.2.apk    72.68 MB  2020-08-27 11:15:05  68052a9a2faa7c8158b0d148b32e53db61af0dcd
+enigma2_midnightstreamer_3.0.0_aarch64.ipk   1.80 MB   2020-06-06 13:59:53  029ca4673d30e263fc32624ec592398821cc2ebc
 enigma2_midnightstreamer_3.0.0_arm.ipk1.86 MB2020-06-06 13:59:51eb24507461c510cea3df9e520b902a1656d1ff81
 enigma2_midnightstreamer_3.0.0_mipsel.ipk1.81 MB2020-06-06 13:59:50a52dd955efd39896a15778c41487f822602acbe0
 enigma2_midnightstreamer_2.0.1_aarch64.ipk1.73 MB2019-08-06 12:35:10aae6fbcfc820c755438f9cd065d52e73ae60de4c
