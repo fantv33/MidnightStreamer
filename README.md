@@ -5,7 +5,7 @@
 ## Description
 Below you can find instructions to install MidnightStreamer v5.5.1 offline. The installation process can be long, so let it run until it's done.
 <br><br>The installation is based on the original files and a patched *odbc_db.php*.
-<br><br>Do not log in and click **Activate** after installation. First copy **odbc_db.php** and then log in. If you don't follow the instructions you will have to reinstall until you do it right.
+<br><br>**Do not log in** and click **Activate** after installation. First copy **odbc_db.php** and then log in. If you don't follow the instructions you will have to reinstall until you do it right.
 ## Installation
 1. Download the zip file from https://mega.nz/file/SFRlzYAb#gwkoUSKnHNd5lXIjJUpvkiPMIGrFzw_ZASphHex5DRg
 
