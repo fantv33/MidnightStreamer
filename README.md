@@ -36,7 +36,6 @@ echo -e "\n127.0.0.1 download.mdstreamer.com" >> /etc/hosts
 **Enjoy**
 
 * <a href="https://midnightstreamer.com">midnightstreamer.com</a>
-* <a href="https://community.midnightstreamer.com">community.midnightstreamer.com</a>
 * <a href="https://t.me/MidnightStreamerSupport">t.me/MidnightStreamerSupport</a>
 * <a href="https://discord.com/invite/Qgcynns">discord.com/invite/Qgcynns</a>
 * <a href="https://github.com/fantv33/MidnightStreamer">Github</a>
