@@ -28,7 +28,6 @@ chmod 777 /home/midnightstreamer/iptv_midnight_streamer/wwwdir/admin/system/data
 5. **Run this command in terminal**
 ```
 echo -e "\n127.0.0.1 download.midnightstreamer.com" >> /etc/hosts
-echo -e "\n127.0.0.1 download.mdstreamer.com" >> /etc/hosts
 ```
 
 6. Login to the panel and change the **server IP** address in the server settings
