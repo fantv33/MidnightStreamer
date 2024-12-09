@@ -55,7 +55,7 @@ else
 		exit 0
 fi
 
-cp $current_dir/ms_install_5.5.0.tar.gz /home/midnightstreamer/ms_install.tar.gz
+cp $current_dir/ms_install_5.5.1.tar.gz /home/midnightstreamer/ms_install.tar.gz
 
 tar -xvzf ms_install.tar.gz
 
