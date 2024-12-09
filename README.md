@@ -37,6 +37,6 @@ echo -e "\n127.0.0.1 download.mdstreamer.com" >> /etc/hosts
 
 <a href="https://github.com/fantv33/MidnightStreamer">Github()</a>
 
-[![Watch the video](https://img.youtube.com/vi/VkK4x84NpYo/maxresdefault.jpg)](https://youtube.com/VkK4x84NpYo)
+[![Watch the video](https://img.youtube.com/vi/VkK4x84NpYo/maxresdefault.jpg)](https://youtube.com/watch?v=VkK4x84NpYo)
 
 
