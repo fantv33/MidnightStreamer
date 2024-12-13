@@ -2,7 +2,7 @@ MDS is compatible with all XC players.
 
 Below is the list of MDS native players.
 
-https://mega.nz/file/LFAAEJ5D#1MLbE_JGvGCggGtkciqIKcN4RtAtRVaYqV6q1MRjOqk
+https://github.com/fantv33/MidnightStreamer/blob/main/Players/MDS_players_all.zip?raw=true
 
 android_midnightstreamer_player_1.0.18.apk   72.71 MB  2023-12-21 07:49:21  cd566c4f9cd2da7cbc2e8c28cb0218abc367776b
 android_midnightstreamer_player_1.0.2.apk    72.68 MB  2020-08-27 11:15:05  68052a9a2faa7c8158b0d148b32e53db61af0dcd
