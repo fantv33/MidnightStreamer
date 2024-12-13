@@ -7,7 +7,7 @@ Below you can find instructions to install MidnightStreamer v5.5.1 offline. The 
 <br><br>The installation is based on the original files and a patched *odbc_db.php*.
 <br><br>**DO NOT log in** and click **Activate** after installation. First copy **odbc_db.php** and then log in. If you don't follow the instructions you will have to reinstall until you do it right.
 ## Installation
-1. Download the zip file from https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
+1. Download the zip file https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
 
 2. Make sure **ms_install_offline.sh** and **ms_install_5.5.1.tar.gz** are in the same directory
 
