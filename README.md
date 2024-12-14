@@ -3,9 +3,7 @@
 ## Ubuntu versions
 * Tested on **Ubuntu 18/20/22/24**
 ## Description
-Below you can find instructions to install MidnightStreamer v5.5.1 offline. The installation process can be long, so let it run until it's done.
-<br><br>The installation is based on the original files and a patched *odbc_db.php*.
-<br><br>**DO NOT log in** and click **Activate** after installation. First copy **odbc_db.php** and then log in. If you don't follow the instructions you will have to reinstall until you do it right.
+Below are the instructions to install MidnightStreamer v5.5.1 offline.
 ## Installation
 1. Download and extract the zip file https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
 
@@ -17,6 +15,7 @@ chmod 777 ms_install_offline.sh
 
 ./ms_install_offline.sh
 ```
+<br><br>**DO NOT log in** and click **Activate** after installation. First copy **odbc_db.php** and then log in.
 
 4. **Copy odbc_db.php in**
 ```
