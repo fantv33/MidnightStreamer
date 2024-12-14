@@ -5,7 +5,7 @@
 ## Description
 Below are the instructions to install MidnightStreamer v5.5.1 offline.
 ## Installation
-1. Download and extract the zip file https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
+1. Git clone or download and extract the zip file https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
 
 2. Make sure **ms_install_offline.sh** and **ms_install_5.5.1.tar.gz** are in the same directory
 
