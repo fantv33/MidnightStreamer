@@ -1,9 +1,9 @@
-# MidnightStreamer Panel v5.5.1
+# MidnightStreamer Panel v5.5.1 Pro
 
 ## Ubuntu versions
 * Tested on **Ubuntu 18/20/22/24**
 ## Description
-Below are the instructions to install MidnightStreamer v5.5.1 offline.
+Below are the instructions to install MidnightStreamer v5.5.1 Pro offline.
 ## Installation
 1. Git clone this repo or download and extract the zip file https://github.com/fantv33/MidnightStreamer/raw/main/MidnightStreamer_v5.5.1_INSTALL.zip
 
