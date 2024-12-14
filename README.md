@@ -15,7 +15,7 @@ chmod 777 ms_install_offline.sh
 
 ./ms_install_offline.sh
 ```
-<br><br>**DO NOT log in** and click **Activate** after installation. First copy **odbc_db.php** and then log in.
+After installation **DO NOT log in** and click **Activate**. First copy **odbc_db.php** and then log in.
 
 4. **Copy odbc_db.php in**
 ```
